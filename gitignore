@@ -1,0 +1,13 @@
+*.axf
+*.build
+*.map
+*.htm
+*.inp
+*.plg
+*.tra
+*.uvgui
+*.uvopt
+*.dep
+*.bak
+*.bak
+*.iex
